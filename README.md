@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to my profile
 
-<!--
-**alchin2/alchin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year Math-CS + Cognitive Science student at UC San Diego.
 
-Here are some ideas to get you started:
+I like building across all of tech. training ML models, shipping software projects, tinkering with agentic AI. I also do a bit of research at the Visual Learning Lab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Looking for Winter/Spring/Summer 2027 internships
+
+Outside of code, i enjoy Chinese lion dance, paddling, way too much Overwatch and osu!, and hanging out with friends.
+
+Check out some of my pinned projects below. Feel free to reachout
+- LinkedIn: azchin
+- Discord: alowo
+- Email: azchin@ucsd.edu
+
