@@ -1,11 +1,14 @@
-# Welcome to my profile
+# Hi, I'm Alex 👋
 
-3rd year Math-CS + Cognitive Science student at UC San Diego.
+I'm a Mathematics–Computer Science and Cognitive Science student at UC San Diego specializing in Machine Learning.
 
-I like building across all of tech. training ML models, shipping software projects, tinkering with agentic AI. I also do a bit of research at the Visual Learning Lab.
+Currently:
+- 🔬 Undergraduate researcher in the [Visual Learning Lab](https://www.vislearnlab.org/) working on how children learn
+- 🤖 Mentoring [AI Projects at ACM UCSD](https://projects.acmucsd.com/)
+- 🧠 Attending hackathons and larping around sf
 
-Check out some of my pinned projects below. Feel free to reachout
-- LinkedIn: azchin
-- Discord: alowo
-- Email: azchin@ucsd.edu
+Check out some of my pinned projects below! Feel free to reach out.
 
+📌 LinkedIn: [azchin](https://www.linkedin.com/in/azchin)  
+💬 Discord: alowo  
+✉️ Email: [azchin@ucsd.edu](mailto:azchin@ucsd.edu)
