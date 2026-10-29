@@ -1,11 +1,18 @@
 # Hi, I'm Alex 👋
 
-I'm a **Mathematics–Computer Science + Cognitive Science** student at **UC San Diego** interested in **applied machine learning, optimization, and building software around real-world data**.
+I'm currently a 3rd year **Math–CS** student at **UC San Diego** with a Cognitive Science minor. I'm broadly interested in how humans and machine learning models learn and represent the world.
 
-I enjoy working on projects that combine **ML, full-stack engineering, data pipelines, and optimization**, especially when they solve problems people actually use.
+- 🔬 **Research:** how training data and architecture shape the way vision models organize their embedding spaces
+- 🛠️ **Engineering:** building software, data pipelines, and applied AI/ML projects
 
-## Currently Interested In
+**Interests:** machine learning theory · optimization · computer vision · computational cognitive science
 
-**Machine Learning · Optimization · Computer Vision · Developmental Sciences**
+📌 Check out my projects below!
 
-[LinkedIn](https://www.linkedin.com/in/azchin/) · [Email](mailto:azchin@ucsd.edu)
+---
+
+Open to **Summer 2027** positions in:
+- **Research / REUs:** computational cognitive science, developmental psychology, computer vision
+- **Industry:** Software Engineering, Machine Learning, or PM Internships
+
+[alowo.dev](https://alowo.dev) · [LinkedIn](https://www.linkedin.com/in/azchin/) · [Email](mailto:azchin@ucsd.edu)
